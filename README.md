@@ -161,3 +161,7 @@ cv2.destroyAllWindows()</code></pre>
 
 <h2>Conclusion</h2>
 <p>This project demonstrates the effective application of YOLOv5 for detecting various objects. By capturing images of different states like "Awake" and "Drowsy," we showcase the model's ability to recognize diverse classes. The project highlights the significance of dataset preparation, image annotation, and model training in achieving high accuracy. With ongoing advancements in AI, this work serves as a stepping stone for innovative applications in computer vision! 🌟</p>
+<h2>👥 Credits</h2>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
+    <h2>📄 License</h2>
+    <p>This project is licensed under the MIT License.</p>
